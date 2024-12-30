@@ -1,6 +1,6 @@
 # tasks-server
 
-Manage your tasks, but not too many. Built with [Laravel](https://laravel.com).
+Manage your tasks, but not too many at a time. Built with [Laravel](https://laravel.com).
 
 ## About this project
 
