@@ -48,7 +48,7 @@ One question remains: How will I manage the journey?
 
 ## Am I just recreating wheel?
 
-Almost certainly, [yes](https://www.google.com/search?q=task+management+app). 
+Almost certainly, [yes](https://www.google.com/search?q=task+management+app), but with purpose.
 
 In the years since my time at that awesome company, there have easily been dozens of new task and project management 
 tools to come online. The marketing for some of them, like [Motion](https://www.usemotion.com/) and 
@@ -56,10 +56,10 @@ tools to come online. The marketing for some of them, like [Motion](https://www.
 
 The critical justifications I have for moving forward are:
 
-- I'm not building something for a team (not yet)
+- I'm not building something for a team (not yet), just for me and my friends
 - I don't want to learn someone else's system, I want to embrace my own idiosyncrasies
-- I expect to learn a few things along the way, especially about AI/LLMs
-- Doing this work in public is a powerful way of marketing my skills
+- I expect to learn a few important things along the way, especially about AI/LLMs
+- Doing this work in public is a powerful way of marketing my skills and building some new ones
 
 The only way out is through.
 
