@@ -59,7 +59,7 @@ The critical justifications I have for moving forward are:
 - I'm not building something for a team (not yet), just for me and my friends
 - I don't want to learn someone else's system, I want to embrace my own idiosyncrasies
 - I expect to learn a few important things along the way, especially about AI/LLMs
-- Doing this work in public is a powerful way of marketing my skills and building some new ones
+- Doing this work in public is a powerful way of [marketing my skills](./JOURNAL.md) and building some new ones
 
 The only way out is through.
 
