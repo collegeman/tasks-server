@@ -21,32 +21,34 @@ This project will be successful if it empowers me to achieve these objectives:
 A bajillion developer years ago, I was working at an [awesome company](https://en.wikipedia.org/wiki/Squidoo) with some 
 [really](https://www.linkedin.com/in/coreybrown/), [really](https://www.linkedin.com/in/joeyblake/), 
 [great](https://www.linkedin.com/in/gilhildebrand/) [people](https://www.linkedin.com/in/megancaseyahern/). We spent a 
-lot of time thinking about and working toward being maximally productive.
+lot of time thinking about and working toward being maximally productive, and we created some cool stuff.
+
+(Incidentally, one bajillion developer years is approximately one normal-human decade, in case you were wondering.)
 
 In that relentless pursuit of [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done), several 
 discoveries were made. First, digital task management can be [beautiful](https://culturedcode.com/things/). Second,
 digital task management can lead to [burnout](https://coreybrown.me/productivity/to-do-list-stress-and-a-return-to-paper/).
-Third, [paper task lists](https://www.corbinizer.com/) can restore your sanity. 
+Third, [paper task lists](https://www.corbinizer.com/) can restore your sanity by constraining your processes. 
 
 While all of that growth was going on, some [big changes happened](https://en.wikipedia.org/wiki/Google_Panda) at 
 Google, the awesome company we had been building was sold, and our teammates moved on.
 
-(Incidentally, one bajillion developer years is approximately one normal-human decade, in case you were wondering.)
+While I've continued in the pursuit of maximum productivity, I've had to do that work within 
+[other](https://c21redwood.com) [teams](https://accessvr.com) that have various preconceived 
+[preferences](https://basecamp.com/) for [managing](https://monday.com/) [task management](https://clickup.com/). 
+All of these tools embody strongly held opinions about how the information of my work should be organized, and that's 
+all been fine, I guess, but none of them have ever felt right for me.
 
-While I've continued in my pursuit of maximum productivity, I've primarily had to do that work within teams that
-had various preconceived [preferences](https://basecamp.com/) for [managing](https://monday.com/) 
-[tasks](https://clickup.com/). All of these tools embody strongly held opinions about how the information of my work 
-should be organized, and that's all fine. But none of them have ever felt right for me, and that's a problem worth 
-solving.
+(Whether this "feeling right" was a matter of tools or context remains to be explored.)
 
-As I write this, I find myself at a sort of professional and personal crossroads. My daughter is almost grown. The 
+Now, as I write this, I find myself at a sort of professional and personal crossroads. My daughter is almost grown. The 
 [new company](https://accessvr.com) I've been helping build for the last four years is approaching a major milestone,
 maybe. And maybe I'm looking out at the horizon and wondering what's next. No matter what the next thing is,
-I'll be bringing my ambition with me.
+I'll be bringing my ambition with me. 
 
-One question remains: How will I manage the journey?
+Which leads to this all important question: How will I manage the journey from here?
 
-## Am I just recreating wheel?
+## Am I just recreating the wheel?
 
 Almost certainly, [yes](https://www.google.com/search?q=task+management+app), but with purpose.
 
@@ -59,9 +61,9 @@ The critical justifications I have for moving forward are:
 - I'm not building something for a team (not yet), just for me and my friends
 - I don't want to learn someone else's system, I want to embrace my own idiosyncrasies
 - I expect to learn a few important things along the way, especially about AI/LLMs
-- Doing this work in public is a powerful way of [marketing my skills](./JOURNAL.md) and building some new ones
+- Doing this work in public is a powerful way of [marketing my skills](./docs/JOURNAL.md) and building some new ones
 
-The only way out is through.
+The only way out of the maze is through.
 
 
 
