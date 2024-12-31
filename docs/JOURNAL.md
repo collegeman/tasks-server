@@ -1,3 +1,11 @@
+# 2024-12-31
+
+I used Loom to record a mock usability study of Motion's onboarding.
+
+https://www.loom.com/share/3e4e49ffaf494844841361e92181efda
+
+In my next session I'll digest this into an Empathy map.
+
 # 2024-12-30
 
 I've been doing this web-based software thing for a long time. When I work on teams, we do things in the necessary 
@@ -17,7 +25,6 @@ The great news is I can easily pivot here. Today, I'll ~~design the information 
 work of [empathizing with my user](https://www.nngroup.com/articles/empathy-mapping/): me. As I've thought about it,
 a good way to create this opportunity for myself would be to go through the onboarding experiences for some of the
 solutions that already exist out there and record myself doing that work.
-
 
 
 # 2024-12-29
