@@ -1,6 +1,6 @@
 # Journal
 
-I'm using this file to document my progress on [tasks-server](/collegeman/tasks-server).
+I'm using this file to document my progress on [tasks-server](../README.md).
 
 ## 2024-12-31
 
