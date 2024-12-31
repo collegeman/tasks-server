@@ -35,7 +35,7 @@ Google, the awesome company we had been building was sold, and our teammates mov
 
 While I've continued in the pursuit of maximum productivity, I've had to do that work within 
 [other](https://c21redwood.com) [teams](https://accessvr.com) that have various preconceived 
-[preferences](https://basecamp.com/) for [managing](https://monday.com/) [task management](https://clickup.com/). 
+[preferences](https://basecamp.com/) for [managing](https://monday.com/) [work](https://clickup.com/). 
 All of these tools embody strongly held opinions about how the information of my work should be organized, and that's 
 all been fine, I guess, but none of them have ever felt right for me.
 
